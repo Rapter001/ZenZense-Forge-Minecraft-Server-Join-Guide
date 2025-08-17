@@ -16,8 +16,8 @@ This guide will walk you through installing CurseForge, creating a profile, and 
 
 ## 2. Create a Profile
 1. In CurseForge, go to the Minecraft tab.
-   ![Minecraft Tab](img/curseforge-go-to-minecraft-tab.png)
 <br>
+   ![Minecraft Tab](img/curseforge-go-to-minecraft-tab.png)
 2. Click **"Create Custom Profile"**.
    ![Create Profile](img/curseforge-create-profile.png)
 
