@@ -46,10 +46,6 @@ This guide will walk you through installing CurseForge, creating a profile, and 
 1. Find your newly created profile in CurseForge.
 
 2. Click the three dots (⋮) next to the profile.
-
-
-   ![Profile Options](img/curseforge-three-dots.png)
-
 3. Select **"Open Folder"**.
    - This will open the folder where your profile’s files are stored keep this window open for the next step.
 
@@ -75,12 +71,7 @@ This guide will walk you through installing CurseForge, creating a profile, and 
    - **config** → drag or copy files to profile directory.
    - **options** → drag or copy options.txt file to profile directory.
 
-
-<video width="600" controls>
-  <source src="vid/moving-files.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+   https://youtu.be/YXvhKO54hh0
 ---
 
 ## 5. Launch Minecraft And Join The Server
