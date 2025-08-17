@@ -8,73 +8,94 @@ This guide will walk you through installing CurseForge, creating a profile, and 
 1. Download the CurseForge App:
    https://www.curseforge.com/download/app
 
+
+   ![Download CurseForge](img/curseforge-website.png)
+
+
+---
+
 2. Run the installer and follow the setup instructions.
+
+   ![Download CurseForge](img/curseforge-installer.png)
 
 3. Once installed, open the CurseForge App.
 
+   ![CurseForge App Opened](img/curseforge-opened.png)
 ---
 
 ## 2. Create a Profile
 1. In CurseForge, go to the Minecraft tab.
 
 
-   ![Minecraft Tab](img/curseforge-go-to-minecraft-tab.png)
+   ![Minecraft Tab](img/curseforge-game-list.png)
 
-   
-2. Click **"Create Custom Profile"**.
+
+2. Click **"Create"**.
    ![Create Profile](img/curseforge-create-profile.png)
 
 3. Choose:
-   - A name for your profile (example: *My Modded MC*).
-   - The version of Minecraft required.
-   - (Optional) The modloader, such as Forge or Fabric, depending on the modpack.
+   - A name for your profile (example: *test*).
+   - The version of Minecraft required (1.20.1 Forge).
+
+
    ![Profile Settings](img/curseforge-profile-settings.png)
 
 ---
 
 ## 3. Open the Profile Folder
 1. Find your newly created profile in CurseForge.
-   ![Profile List](img/curseforge-profile-list.png)
 
 2. Click the three dots (⋮) next to the profile.
-   ![Profile Options](img/curseforge-profile-options.png)
+
+
+   ![Profile Options](img/curseforge-three-dots.png)
 
 3. Select **"Open Folder"**.
-   - This will open the folder where your profile’s files are stored.
-   ![Open Folder](img/curseforge-open-folder.png)
+   - This will open the folder where your profile’s files are stored keep this window open for the next step.
+
+
+   ![Open Folder](img/curseforge-three-dots.png)
 
 ---
 
 ## 4. Add the Downloaded Files
-1. Download the required files (mods, configs, or resource packs).
-   Example: https://www.mediafire.com/file/rlih436bxn11d0n/mods.zip/file
-   ![Download Mods](img/download-mods.png)
+1. Download the required files (mods, configs).
+   https://www.mediafire.com/file/uyk0ehi7c3kuv54/.minecraft.zip/file
 
-2. Extract the .zip file if it’s compressed.
-   ![Extract Files](img/extract-files.png)
+
+   ![Download Mods](img/download-files.png)
+
+
+2. Extract the .zip files.
+   - You can use any file extractor like 7zip or WinRAR.
+   - Follow This Guide If You Need Help Extracting Files: https://www.wikihow.com/Unzip-a-File
 
 3. Copy the contents into the correct sub-folders inside your profile folder:
-   - **mods** → put all `.jar` mod files here.
-   - **config** → put all config files here (if included).
-   - **resourcepacks** → put resource packs here (if included).
-   ![Mods Folder](img/mods-folder.png)
+   - **mods** → drag or copy to profile directory.
+   - **config** → drag or copy files to profile directory.
+   - **options** → drag or copy options.txt file to profile directory.
+
+
+<video width="600" controls>
+  <source src="vid/moving-files.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
-## 5. Launch Minecraft
+## 5. Launch Minecraft And Join The Server
 1. Return to CurseForge.
-   ![Return to CurseForge](img/curseforge-back.png)
 
 2. Select your profile.
-   ![Select Profile](img/curseforge-select-profile.png)
 
 3. Click **"Play"**.
-   ![Play Game](img/curseforge-play.png)
 
 4. Minecraft will start with your mods loaded!
    ![Minecraft Mods Loaded](img/minecraft-mods-loaded.png)
 
+5. Join the server by going to multiplayer and adding the server address to direct connect or to server list: `pradelska.dathost.net:17795`
+
 ---
 
 ## Need Help?
-If you get stuck, feel free to reach out to
+If you get stuck, feel free to reach out.
